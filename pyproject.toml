@@ -20,5 +20,6 @@ dev = [
     "ruff>=0.15.10",
 ]
 
-[project.scripts] 
+[project.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
+brain-even = "brain_games.scripts.brain_even:main"
