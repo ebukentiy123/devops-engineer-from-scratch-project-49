@@ -26,5 +26,5 @@
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=ebukentiy123_devops-engineer-from-scratch-project-49)
 
-### Asciinema
+### Asciinema brain_even
 [![asciicast](https://asciinema.org/a/N6giYG6oFRzloO3E.svg)](https://asciinema.org/a/N6giYG6oFRzloO3E)
