@@ -25,3 +25,6 @@
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ebukentiy123_devops-engineer-from-scratch-project-49)](https://sonarcloud.io/summary/new_code?id=ebukentiy123_devops-engineer-from-scratch-project-49)
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=ebukentiy123_devops-engineer-from-scratch-project-49)
+
+### Asciinema
+[![asciicast](https://asciinema.org/a/N6giYG6oFRzloO3E.svg)](https://asciinema.org/a/N6giYG6oFRzloO3E)
