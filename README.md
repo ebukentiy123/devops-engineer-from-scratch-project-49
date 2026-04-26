@@ -30,14 +30,14 @@
 [![asciicast](https://asciinema.org/a/N6giYG6oFRzloO3E.svg)](https://asciinema.org/a/N6giYG6oFRzloO3E)
 
 ### Asciinema|brain_calc
-https://asciinema.org/a/akKnpkc7Tcn8WoG2
+[![asciicast](https://asciinema.org/a/akKnpkc7Tcn8WoG2.svg)](https://asciinema.org/a/akKnpkc7Tcn8WoG2)
 
 ### Asciinema|brain_gcd
-https://asciinema.org/a/PVVAQp7hgrvbLKm9
+[![asciicast](https://asciinema.org/a/PVVAQp7hgrvbLKm9.svg)](https://asciinema.org/a/PVVAQp7hgrvbLKm9)
 
 ### Asciinema|brain_progression
-https://asciinema.org/a/YDiplcVdwm3rrIli
+[![asciicast](https://asciinema.org/a/YDiplcVdwm3rrIli.svg)](https://asciinema.org/a/YDiplcVdwm3rrIli)
 
 ### Asciinema|brain_prime
-https://asciinema.org/a/5GcJ16OctR5VdETB
+[![asciicast](https://asciinema.org/a/5GcJ16OctR5VdETB.svg)](https://asciinema.org/a/5GcJ16OctR5VdETB)
 
