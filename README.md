@@ -26,5 +26,18 @@
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=ebukentiy123_devops-engineer-from-scratch-project-49)
 
-### Asciinema brain_even
+### Asciinema|brain_even
 [![asciicast](https://asciinema.org/a/N6giYG6oFRzloO3E.svg)](https://asciinema.org/a/N6giYG6oFRzloO3E)
+
+### Asciinema|brain_calc
+https://asciinema.org/a/akKnpkc7Tcn8WoG2
+
+### Asciinema|brain_gcd
+https://asciinema.org/a/PVVAQp7hgrvbLKm9
+
+### Asciinema|brain_progression
+https://asciinema.org/a/YDiplcVdwm3rrIli
+
+### Asciinema|brain_prime
+https://asciinema.org/a/5GcJ16OctR5VdETB
+
