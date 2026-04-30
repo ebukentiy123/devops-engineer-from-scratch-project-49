@@ -1,2 +1,4 @@
 .venv/
 demo.cast
+__pycache__/
+*.py[cod]
