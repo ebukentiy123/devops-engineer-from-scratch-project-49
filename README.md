@@ -41,3 +41,42 @@
 ### Asciinema|brain_prime
 [![asciicast](https://asciinema.org/a/5GcJ16OctR5VdETB.svg)](https://asciinema.org/a/5GcJ16OctR5VdETB)
 
+
+## Описание
+Набор консольных мини‑игр: 
+- Проверка на чётность (brain-even)
+- Калькулятор (brain-calc)
+- НОД (brain-gcd)
+- Арифметическая прогрессия (brain-progression)
+- Простое ли число? (brain-prime)
+
+## Установка
+
+Требуется:
+- Python 3.10+
+- Утилита uv
+
+```bash
+# Клонировать репозиторий:
+git clone https://github.com/ebukentiy123/devops-engineer-from-scratch-project-49.git
+
+# Скопировать репозиторий и перейти в директорию devops-engineer-from-scratch-project-49:
+cd devops-engineer-from-scratch-project-49
+
+# Установка зависимостей (если используются):
+uv sync
+```
+
+## Запуск:
+
+После установки доступны команды в терминале:
+
+```bash
+brain-even       # игра: определить чётное число
+brain-calc       # игра: вычислить выражение
+brain-gcd        # игра: найти НОД
+brain-progression # игра: найти пропущенное число в прогрессии
+brain-prime      # игра: определить, простое ли число
+```
+
+Следуйте инструкциям в консоли, чтобы ответить на вопросы.
